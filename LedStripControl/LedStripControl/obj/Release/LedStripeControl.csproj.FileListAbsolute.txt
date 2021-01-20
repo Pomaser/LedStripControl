@@ -1,0 +1,13 @@
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Release\LedStripeControl.exe.config
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Release\LedStripeControl.exe.manifest
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Release\LedStripeControl.application
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Release\LedStripeControl.exe
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Release\LedStripeControl.pdb
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.Main.resources
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.Properties.Resources.resources
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.csproj.GenerateResource.Cache
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.exe.manifest
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.application
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.exe
+C:\Users\maj9bj\Documents\Visual Studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.pdb
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Release\LedStripeControl.csprojResolveAssemblyReference.cache

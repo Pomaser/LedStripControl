@@ -1,0 +1,25 @@
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.exe.config
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.exe.manifest
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.application
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.exe
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.pdb
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.Main.resources
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.Properties.Resources.resources
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.csproj.GenerateResource.Cache
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.exe.manifest
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.application
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.exe
+C:\Users\maj9bj\documents\visual studio 2015\Projects\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.pdb
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.exe.config
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.exe
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.pdb
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.exe.manifest
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.application
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.exe
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\bin\Debug\LedStripeControl.pdb
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.Main.resources
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.Properties.Resources.resources
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.csproj.GenerateResource.Cache
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.exe.manifest
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.application
+C:\Projekty\VisualStudio\LedStripeControl\LedStripeControl\LedStripeControl\obj\Debug\LedStripeControl.csproj.CoreCompileInputs.cache
